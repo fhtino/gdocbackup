@@ -1,7 +1,7 @@
 gdocbackup
 ==========
 
-this is a test
+Source code is at  https://code.google.com/p/gdocbackup/
 
-:)
+
 
